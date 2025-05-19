@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    padding: 0;
+    margin: 0;
+}
+
+#box {
+    
+    background-color: hsl(0, 0%, 100%);
+    width: px;
+    height: 40%;
+}
+
+p {
+    font-size: 16px;
+}
