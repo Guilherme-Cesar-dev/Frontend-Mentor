@@ -1,0 +1,65 @@
+* {
+    background-color: rgb(179, 226, 245);
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5em;
+    color: #222;
+    background-color: azure;
+    margin: 0;
+}
+
+#challenges {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: azure;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    border: #222 solid 2px;
+}
+
+h3, p, a {
+    background-color: azure;
+}
+
+h3 {
+    color: #222;
+    font-size: 1.5em;
+}
+
+p {
+    color: #555;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color
+    : #08a4ff;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: azure;
+}
